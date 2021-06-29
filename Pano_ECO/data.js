@@ -53,13 +53,13 @@ var APP_DATA = {
           "yaw": -1.119499143916844,
           "pitch": -0.14918495206482163,
           "title": "Lageplan<br>",
-          "text": "<img scr=images/Lageplan.png"
+          "text": "<img scr= images/Lageplan.png"
         },
         {
           "yaw": -1.3002406499908936,
           "pitch": 0.29355490504615744,
           "title": "Klimamaßnahmen<br>",
-          "text": "img scr=images/Stadtklima.png"
+          "text": "img scr= images/Stadtklima.png"
         }
       ]
     },
@@ -110,13 +110,13 @@ var APP_DATA = {
           "yaw": -0.75305902161295,
           "pitch": -0.4185235055661707,
           "title": "Bestandsfotos<br>",
-          "text": "img scr=images/Bestandfotos.png"
+          "text": "img scr= images/Bestandfotos.png"
         },
         {
           "yaw": -0.7453595248060569,
           "pitch": 0.04731754346354222,
           "title": "Doppelhelix<br>",
-          "text": "img scr=images/AlteErschließung.png"
+          "text": "img scr= images/AlteErschließung.png"
         }
       ]
     },
@@ -167,13 +167,13 @@ var APP_DATA = {
           "yaw": -1.0490397482974014,
           "pitch": -0.3888749742199824,
           "title": "Tageslichtanalyse<br>",
-          "text": "img scr=images/Tageslicht.png"
+          "text": "img scr= images/Tageslicht.png"
         },
         {
           "yaw": -1.0630067759812007,
           "pitch": 0.07160000466202732,
           "title": "Erschließungskonzept<br>",
-          "text": "img scr=images/NeueErschließung.png"
+          "text": "img scr= images/NeueErschließung.png"
         }
       ]
     },
@@ -224,13 +224,13 @@ var APP_DATA = {
           "yaw": -1.4703864441260333,
           "pitch": -0.41297360661508975,
           "title": "Thermisches Konzept<br>",
-          "text": "img scr=images/ThermischesKonzept.png"
+          "text": "img scr= images/ThermischesKonzept.png"
         },
         {
           "yaw": -1.4644306573447725,
           "pitch": 0.04880477672263339,
           "title": "Versorgungskreisläufe<br>",
-          "text": "img scr=images/Kreisläufe.png"
+          "text": "img scr= images/Kreisläufe.png"
         }
       ]
     },
@@ -281,13 +281,13 @@ var APP_DATA = {
           "yaw": -1.016206212944505,
           "pitch": -0.4083389104688937,
           "title": "Nutzungen<br>",
-          "text": "img scr=images/Nutzungen.png"
+          "text": "img scr= images/Nutzungen.png"
         },
         {
           "yaw": -1.0162054195755825,
           "pitch": 0.05373815660606596,
           "title": "Grundriss<br>",
-          "text": "img scr=images/Grundriss.png"
+          "text": "img scr= images/Grundriss.png"
         }
       ]
     },
@@ -338,7 +338,7 @@ var APP_DATA = {
           "yaw": -1.016205717089166,
           "pitch": -0.4132534583037515,
           "title": "Längsschnitt<br>",
-          "text": "img scr=images/Längsschnitt.png"
+          "text": "img scr= images/Längsschnitt.png"
         },
         {
           "yaw": -1.0168206942244247,
